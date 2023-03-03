@@ -64,7 +64,7 @@ margin-bottom: 17px;">
             <div class="card-body">
             <h5 class="card-title">${contest[item].name}</h5>
             <p>Start at: ${contest[item].start_time}</p>
-            <p>Start at: ${contest[item].end_time}</p>
+            <p>End at: ${contest[item].end_time}</p>
             <a href="${contest[item].url}" target="_blank" class="btn btn-primary">Visit Here</a>
             </div>
         </div>
